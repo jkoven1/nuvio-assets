@@ -1,0 +1,2823 @@
+[
+  {
+    "id": "collection-3b815733",
+    "title": "TV Networks",
+    "folders": [
+      {
+        "id": "folder-46151214",
+        "title": "Comedy Central",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.27755"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/NMyz9yRM/comedy-central-animated.gif",
+        "coverImageUrl": "https://logowik.com/content/uploads/images/t_comedy-central.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.27755"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/comedy%20central%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-7f80a07f",
+        "title": "Bravo",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128551"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/v82S7t0b/bravo-slow-smooth.gif",
+        "coverImageUrl": "https://x02.me/i/GAAKU5.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128551"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/bravo%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-ab03456e",
+        "title": "ESPN 30 for 30",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.164170"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHRseGw4cXd3eTNjNHdzOGY3NHFwNmJmeWx6MHN2bnp6anNwbjZseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kdXjY8InWX0iUsyFvd/giphy.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ba820981-f853-4799-9035-0dcee6170c8d.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.164170"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/espn%2030%2030%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-4670c6fc",
+        "title": "Nickelodeon",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.164175"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ2Nm14MjRrMnJ1eHBmdHBhYXhmaWx4bnFlZzZtc21neWYwYnk5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QdYz05VfRU5eo/giphy.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/f1bab4ef-4a26-45b6-ac32-7bef2c388bea.jpeg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.164175"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/nickelodean%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-e438380d",
+        "title": "Adult Swim",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.59779"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTl5bnM2OWU1ZXdxaDE4YWd1c3JxYzl3dWY5c2dtZGdhdTZ3OWN0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hbLMGKQGBLIbe/giphy.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/11e07e72-7b9d-4487-b8f0-b2f76a3172bd.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59779"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/adult%20swim%20backdrop.png?raw=true"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-6f3e5c1e",
+    "title": "Streaming Services",
+    "folders": [
+      {
+        "id": "folder-c9dc752a",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "hbo-max-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "hbo-max-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hbm_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hbm_movie"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "hbm"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "hbm"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/hbo-max.png?raw=true",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/3b98bae2-145f-48f0-b6b5-8f5b9da88aa8.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "hbo-max-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "hbo-max-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_movie"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/hbo-max.jpg?raw=true"
+      },
+      {
+        "id": "folder-5b8911a6",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "netflix-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "netflix-movie-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "nfx"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "nfx"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/netflix.png?raw=true",
+        "coverImageUrl": "https://i.postimg.cc/NjTYV0WF/IMG-8002.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "netflix-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "netflix-movie-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/netflix.jpg?raw=true"
+      },
+      {
+        "id": "folder-a75f7d20",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "apple-tv-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "apple-tv-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.atp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.atp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "atp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "atp"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/apple-tv.png?raw=true",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/54ab4911-bbc9-44e8-8616-a5737602c31d.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "apple-tv-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "apple-tv-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/apple-tv.jpg?raw=true"
+      },
+      {
+        "id": "folder-86a3c679",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "disney-overall-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "dnp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "dnp"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/disney-plus.png?raw=true",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1b98adc2-9bf5-4d36-84dc-3dac7d2d76e7.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "disney-overall-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/disney-plus.jpg?raw=true"
+      },
+      {
+        "id": "folder-7998f992",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "paramount-plus-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "paramount-plus-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_movie"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/paramount-plus.png?raw=true",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/a59a188a-d705-41d0-b161-62d9fb1c9192.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "paramount-plus-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "paramount-plus-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_movie"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/paramount-plus.jpg?raw=true"
+      },
+      {
+        "id": "folder-fdc07ec9",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "amazon-prime-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "amazon-prime-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.amp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.amp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "amp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "amp"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/prime-video.png?raw=true",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/d5c3665c-da82-4f65-a42f-daabe0cd5ced.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "amazon-prime-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "amazon-prime-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/prime-video.jpg?raw=true"
+      },
+      {
+        "id": "folder-d2f77ecc",
+        "title": "Peacock",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "peacock-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "peacock-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pcp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pcp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "pcp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "pcp"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/peacock.png?raw=true",
+        "coverImageUrl": "https://i.ytimg.com/vi/XfCzdc5PmL0/maxresdefault.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "peacock-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "peacock-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pcp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pcp"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "pcp"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/peacock.jpg?raw=true"
+      },
+      {
+        "id": "folder-1bcc83cc",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "hulu-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "provider": "addon",
+            "catalogId": "hulu-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hlu_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hlu_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "hlu"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "provider": "addon",
+            "catalogId": "hlu"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/hulu.png?raw=true",
+        "coverImageUrl": "https://i.postimg.cc/W4MNR9x3/Hulu.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "hulu-series-united-states"
+          },
+          {
+            "type": "movie",
+            "addonId": "uuid.72169d64.topstreaming.flixpatrol",
+            "catalogId": "hulu-movie-united-states"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hlu"
+          },
+          {
+            "type": "movie",
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hlu"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/hulu.jpg?raw=true"
+      },
+      {
+        "id": "folder-0539a28d",
+        "title": "Showtime",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2127"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/47cdb6e6-1833-4178-9519-1acc688b0283.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2127"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.ibb.co/jk68dmv6/Chat-GPT-Image-Apr-28-2026-10-43-55-PM.png"
+      },
+      {
+        "id": "folder-e21c9a11",
+        "title": "Shudder",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.8862"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.12503"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/shudder%20title.png?raw=true",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/0eff089f-6fb8-41f2-a0ac-8f6e0462ccd5.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.8862"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.12503"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/ChatGPT%20Image%20Apr%2027,%202026,%2008_07_11%20PM.png?raw=true"
+      },
+      {
+        "id": "folder-9cfe36db",
+        "title": "Mubi",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_1675"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_1676"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.stremio.mubi_app",
+            "provider": "addon",
+            "catalogId": "MubiAppCatalogArchive"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/ChatGPT%20Image%20Apr%2027,%202026,%2008_18_51%20PM.png?raw=true",
+        "coverImageUrl": "https://i.ytimg.com/vi/al3ioIHi4n0/mqdefault.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_1675"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_1676"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.stremio.mubi_app",
+            "catalogId": "MubiAppCatalogArchive"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/mubi%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-f974f6ec",
+        "title": "Criterion Collection",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.38346"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/6b8e1776-9e8f-47c8-b66d-42e42f4ce29d.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.38346"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/ChatGPT%20Image%20Apr%2027,%202026,%2008_09_27%20PM.png?raw=true"
+      },
+      {
+        "id": "folder-bd488c4d",
+        "title": "AMC+",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.104030"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/56700277-21b6-4ef0-b63a-f4b830340bfd.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.104030"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/AMC+%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-1c10d271",
+        "title": "Discovery +",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dpe"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/title/discovery-plus.png?raw=true",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/00473c58-26ae-4c41-b733-48fd867875ec.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dpe"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/streaming/backdrop/discovery-plus.jpg?raw=true"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/161c7fde-ad93-41a2-919a-c830f4e8f6fb.jpeg",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-14a22f82",
+    "title": "Genres",
+    "folders": [
+      {
+        "id": "folder-2dddb888",
+        "title": "Comedy",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91223"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91224"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8066"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8044"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8069"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8074"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8211"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91010"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/comedy-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91223"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91224"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8066"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8044"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8069"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8074"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8211"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91010"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/comedy.jpg?raw=true"
+      },
+      {
+        "id": "folder-c36df783",
+        "title": "Action",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91211"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91213"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/action-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91211"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91213"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/action.jpg?raw=true"
+      },
+      {
+        "id": "folder-d2d867a4",
+        "title": "Documentary",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2406"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128027"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.157933"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.108388"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10279"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2134"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/documentary-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2406"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128027"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.157933"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.108388"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10279"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2134"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/documentary.jpg?raw=true"
+      },
+      {
+        "id": "folder-1f577bc5",
+        "title": "Horror",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91215"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.12503"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-pSgSC"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.102554"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/horror-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91215"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.12503"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-pSgSC"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.102554"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/horror.jpg?raw=true"
+      },
+      {
+        "id": "folder-0a1b6174",
+        "title": "Sports",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7944"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.6621"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8423"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7961"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-SDMC8"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/0092204d-1270-43e3-afee-11408471950f.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7944"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.6621"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8423"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7961"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-SDMC8"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/sports%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-dd285d97",
+        "title": "Food & Travel Shows",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.108388"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/food%20and%20travel%20cover.png?raw=true",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.108388"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/food%20travel%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-8038b1ed",
+        "title": "Thriller",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91893"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91894"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/thriller-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91893"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91894"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/thriller.jpg?raw=true"
+      },
+      {
+        "id": "folder-491df711",
+        "title": "Reality",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.84401"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/reality-wide.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.84401"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/reality%20tv%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-09c86132",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91296"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91297"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/drama-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91296"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91297"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/drama.jpg?raw=true"
+      },
+      {
+        "id": "folder-a5a1821f",
+        "title": "Animation",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.116037"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.116038"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/animation-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.116037"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.116038"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/animation.jpg?raw=true"
+      },
+      {
+        "id": "folder-7e6e6fe0",
+        "title": "Sci-Fi",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91220"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91221"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/sci-fi-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91220"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91221"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/sci%20fi%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-2bf74229",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128262"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.128265"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/romance-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128262"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128265"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/romance.jpg?raw=true"
+      },
+      {
+        "id": "folder-2e2d8e8f",
+        "title": "Crime",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3108"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3126"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/crime-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3108"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3126"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/crime.jpg?raw=true"
+      },
+      {
+        "id": "folder-f2b5a121",
+        "title": "Adventure",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.127869"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.105158"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/adventure-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.127869"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.105158"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/adventure%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-e4059f1a",
+        "title": "Classic Sitcoms",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.151445"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10261"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/classic%20sitcoms%20cover.png?raw=true",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.151445"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10261"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/classic%20sitcoms%20backdrop%20v2.png?raw=true"
+      },
+      {
+        "id": "folder-66dff2b0",
+        "title": "Nature",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2126"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2125"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/nature%20cover.png?raw=true",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2126"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2125"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/nature%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-b0ce4634",
+        "title": "Talk Shows",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10048"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/wj8mmG9r/Talk.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10048"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/genres/backdrop/talk.jpg?raw=true"
+      },
+      {
+        "id": "folder-75d08d90",
+        "title": "Music",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2044"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10054"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_tmdb_discovery_59"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/music-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2044"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10054"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_tmdb_discovery_59"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/music%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-c6dcf14d",
+        "title": "Superheroes & Villains",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.142799"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/superheroes-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.142799"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/luckynumb3rs/stremio-perfect-setup/blob/main/collections/themes/backdrop/superhero.jpg?raw=true"
+      },
+      {
+        "id": "folder-80c0c1bb",
+        "title": "International",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10281"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10280"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2133"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/wide/dannyrutledge/international-wide.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10281"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10280"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2133"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/foreign%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-d713a0f8",
+        "title": "Stand Up Comedy",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2238"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2240"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/bNx8bxwV/file-0000000029b0720ca291a4511e51e2ed.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2238"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2240"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/bNx8bxwV/file-0000000029b0720ca291a4511e51e2ed.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-f954d568",
+    "title": "Festivals & Award Winners",
+    "folders": [
+      {
+        "id": "folder-9bd9457f",
+        "title": "Oscar Best Picture Winners",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.165144"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10280"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/KzdMvyMB/oscars.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.165144"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10280"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/best%20picture%20oscars%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-10c3573d",
+        "title": "TIFF, Venice, Cannes & Berlin Best Picture Winners",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.146626"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.148070"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/e9768a1a-0854-4ade-8895-503d98270ef9.jpeg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.146626"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.148070"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/film%20festivals%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-3726e284",
+        "title": "Philly Sping Fest",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.164946"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Hnkyd6Z6/26-PFS-Spring-Fest-Web-1200x700-01.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.164946"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/Hnkyd6Z6/26-PFS-Spring-Fest-Web-1200x700-01.jpg"
+      },
+      {
+        "id": "ly4fdtfc",
+        "title": "SXSW 2026",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-TtLh8"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://deadline.com/wp-content/uploads/2026/01/SXSW-2026.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-TtLh8"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/63412ba0-42e3-4f09-8309-4e9b8adb80ea.gif",
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-dcf72de8",
+    "title": "Discover",
+    "folders": [
+      {
+        "id": "folder-2c0d5a68",
+        "title": "Letterboxd",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-sNEDe"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-popular"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-watchlist"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-liked-films"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-diary"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-friends"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-recommended"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-top250"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-bAS2M"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-pSgSC"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-4wJmW"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-TsT1A"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/rmZYRyjZ/IMG-1091.gif",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78nXG_xowzIMk_2Iuz7I5GbCNchsl0S3MH7mJj4qkHPG7qLn8e8ppGOs&s=10",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-sNEDe"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-popular"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-watchlist"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-liked-films"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-diary"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-friends"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-recommended"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-top250"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-bAS2M"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-pSgSC"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-4wJmW"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-TsT1A"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/letterboxd%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-bef67cdc",
+        "title": "Latest Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.trending"
+          },
+          {
+            "type": "movie",
+            "genre": "2026",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "year"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-sNEDe"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/SRJCfN6J/latest-movies-digital-release-landscape-ember-upscayl-2x-digital-art-4x.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending"
+          },
+          {
+            "type": "movie",
+            "genre": "2026",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "year"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-sNEDe"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/SRJCfN6J/latest-movies-digital-release-landscape-ember-upscayl-2x-digital-art-4x.png"
+      },
+      {
+        "id": "folder-bf42b2c7",
+        "title": "Latest Shows",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.trending"
+          },
+          {
+            "type": "series",
+            "genre": "2026",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "year"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_streamservice_4171"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_streamservice_4170"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/BbXHBQTV/latest-shows-landscape-ember-upscayl-2x-digital-art-4x.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending"
+          },
+          {
+            "type": "series",
+            "genre": "2026",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "year"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_streamservice_4171"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_streamservice_4170"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-e832ee0a",
+        "title": "Trending Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.top"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_streamservice_4168"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/pdJf2SVs/trending-movies-landscape-ember-upscayl-2x-digital-art-4x.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.top"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_streamservice_4168"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-6195ee09",
+        "title": "Trending Shows",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.trending"
+          },
+          {
+            "type": "series",
+            "addonId": "com.linvo.cinemeta",
+            "provider": "addon",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.161767"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_streamservice_4169"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/3RL2GDvh/trending-shows-landscape-ember-upscayl-2x-digital-art-4x.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.trending"
+          },
+          {
+            "type": "series",
+            "addonId": "com.linvo.cinemeta",
+            "catalogId": "top"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.161767"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_streamservice_4169"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://8upload.com/image/4de4789e12942f85/TRENDING_MOVIES.jpeg",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-9e303254",
+    "title": "Recommended",
+    "folders": [
+      {
+        "id": "6wprvw00",
+        "title": "Top Rated",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.top_rated"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.top_rated"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.101881"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-top250"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-nVqt6"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-TsT1A"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/top%20rated%20recommendations%20cover%20v2.png?raw=true",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.top_rated"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.top_rated"
+          },
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.101881"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-top250"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-nVqt6"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-TsT1A"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/top%20rated%20recommendations%20cover%20v2.png?raw=true"
+      },
+      {
+        "id": "folder-45ec6cb9",
+        "title": "Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7847"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7849"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7960"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8044"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8066"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8069"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8206"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10056"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_tmdb_discovery_54"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10262"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/movie%20recommendations%20cover%20v2.png?raw=true",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7847"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7849"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7960"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8044"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8066"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8069"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8206"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10056"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_tmdb_discovery_54"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10262"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/movie%20recommendations%20cover%20v2.png?raw=true"
+      },
+      {
+        "id": "folder-1287c718",
+        "title": "Series",
+        "sources": [
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7848"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7850"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7962"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_streamservice_3130"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_7961"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8074"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8211"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_8423"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_list_10057"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/tv%20series%20recommendations%20cover.png?raw=true",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7848"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7850"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7962"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_streamservice_3130"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_7961"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8074"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8211"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_8423"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_list_10057"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/tv%20series%20recommendations%20cover.png?raw=true"
+      },
+      {
+        "id": "folder-9a829059",
+        "title": "The Ringer",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-Qcvfk"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-4wJmW"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-lDFua"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2244"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2242"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-p4F06"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-NZIIU"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "provider": "addon",
+            "catalogId": "letterboxd-list-464zS"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcBm4fgKIUPOal8RqxQpTnMbOnBZhca_3hQ&s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-Qcvfk"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-4wJmW"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-lDFua"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2244"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2242"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-p4F06"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-NZIIU"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.stremboxd",
+            "catalogId": "letterboxd-list-464zS"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/the%20ringer%20backdrop%20v3.png?raw=true"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/1b7ee909-67f9-4719-b97d-4f9413ce89b1.png",
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-49b9567b",
+    "title": "Studios",
+    "folders": [
+      {
+        "id": "folder-1b82f776",
+        "title": "A24",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_1677"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2241"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://cdn.postimage.me/2026/04/12/1000046132.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5fde56a8-49c4-4543-9a9f-2c8752e1276d.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_1677"
+          },
+          {
+            "type": "series",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2241"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/a24%20backdrop.png?raw=true"
+      },
+      {
+        "id": "folder-15c1e607",
+        "title": "Pixar",
+        "sources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3918"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "provider": "addon",
+            "catalogId": "aicat_external_2245"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BiOGg2d3U2eXZlbzE1MW5jeXQ1cjY0dGZ1bmc3a3c5Mnh2a25ocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/303eg4x9WRTNK/giphy.gif",
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/aba80c00-dc90-481f-b477-a91c7ce337e3.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3918"
+          },
+          {
+            "type": "movie",
+            "addonId": "com.aicat.09f5da4b-e635-449d-901d-c0a26b486d32",
+            "catalogId": "aicat_external_2245"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://github.com/jkoven1/nuvio-assets/blob/main/pixar%20backdrop.png?raw=true"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  }
+]
